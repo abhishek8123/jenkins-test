@@ -10,10 +10,9 @@
 	</parent>
 	<groupId>com.abhi.jenkins</groupId>
 	<artifactId>jenkins-test</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jenkins-test</name>
-
-	
 	<description>jenkins test project for Spring Boot</description>
 	<url/>
 	<licenses>
